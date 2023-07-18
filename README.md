@@ -1,11 +1,13 @@
-# java-learning
+# Java Learning
 
-- src
+### modules
+
+- [x] src
   - [x] poo
     - [x] abstraction
     - [x] polymorphism
     - [x] inheritance
     - [x] encapsulation
-  - [ ] collections
   - [ ] threads
+  - [ ] collections
   - [ ] design patterns
