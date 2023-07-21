@@ -8,6 +8,9 @@
     - [x] polymorphism
     - [x] inheritance
     - [x] encapsulation
-  - [ ] threads
-  - [ ] collections
+  - [x] collections
+    - [x] sets
+    - [x] lists
+    - [x] maps
+  - [x] threads
   - [ ] design patterns
